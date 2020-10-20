@@ -1,0 +1,134 @@
+{
+  "cacheBootResources": true,
+  "config": [ ],
+  "debugBuild": false,
+  "entryAssembly": "IronBlock.BlazorSample",
+  "linkerEnabled": true,
+  "resources": {
+    "assembly": {
+      "IronBlock.BlazorSample.dll": "sha256-apr5hFwIiGcaRb+YAClyO+ZwZXiE4\/QHwCZec1M6PZ8=",
+      "IronBlock.dll": "sha256-peibjxMtYHVs+EIfHDIHyCeCmUpK+IMzY0v1WAk8HXs=",
+      "Microsoft.AspNetCore.Components.dll": "sha256-LodNBhJFb93kgxZE1ANsZpwUvdLAWI2\/yHWb\/mCs694=",
+      "Microsoft.AspNetCore.Components.Web.dll": "sha256-Udlp1u5n7iXjIS6P0xEY+DYAHCZCM4+BXSGbMncC+yY=",
+      "Microsoft.AspNetCore.Components.WebAssembly.dll": "sha256-m5cun3tO9jLDIR\/eJMOHqalTAaRXl7mluiwGTXUloWc=",
+      "Microsoft.Bcl.AsyncInterfaces.dll": "sha256-jzHgXWAvWMkKIGFjZoT84tbe72E+H7CvTr\/Dryh4QPs=",
+      "Microsoft.CodeAnalysis.CSharp.dll": "sha256-SjPmu1eVhOyLiEJYEdoM5H+XER1j+XkhZWM1jF\/m8Ns=",
+      "Microsoft.CodeAnalysis.CSharp.Scripting.dll": "sha256-7adc2B2YS6qEs+0eOET8zlYp08JR\/Q4Z3h+JUJnyZk0=",
+      "Microsoft.CodeAnalysis.dll": "sha256-WIKxshh52E2CfoJhqVvWz2z6yayytLyF6cXWlrC5k+0=",
+      "Microsoft.CodeAnalysis.Scripting.dll": "sha256-AqK+fxW8kWWQcaYufvQHOdAgXToK60xXFP\/667nsnRA=",
+      "Microsoft.CSharp.dll": "sha256-RcYAHNGysqiAZboWfKyBG579h0kLEd3oF5qZqh0o5oE=",
+      "Microsoft.Extensions.Configuration.Abstractions.dll": "sha256-qyn1sdfqswskCRPRmlMbnJkAjwxa\/ualsx0znq+07QE=",
+      "Microsoft.Extensions.Configuration.dll": "sha256-LytbbN8fSjJvK3uV+5NmrZQLRvt+uHQ9+L8Q+ByCEx4=",
+      "Microsoft.Extensions.Configuration.Json.dll": "sha256-Ty3SiWS+cArbKwusLjs2h94Xz+XCbPbUu+zWBevM3vg=",
+      "Microsoft.Extensions.DependencyInjection.Abstractions.dll": "sha256-hDUEHNC3WhRVDow9jtoqi1uaZgW5tqjbLuof1humC0k=",
+      "Microsoft.Extensions.DependencyInjection.dll": "sha256-lYyCf0LexCkIUoB+\/yelc77bUe6tr0o8cEhQv9JMDZY=",
+      "Microsoft.Extensions.Logging.Abstractions.dll": "sha256-DAn0VA59KZyyg938znoLtYq2VoRm7fUzi2BdX7KzIB4=",
+      "Microsoft.Extensions.Logging.dll": "sha256-NZwb\/Ywr13JLiX\/1a7jVIltrowQolV6Ecgz6H95RrgM=",
+      "Microsoft.Extensions.Options.dll": "sha256-LeOD4sVNTjgR\/dRFozXv67kDnbdn984V0AR5U25wE7A=",
+      "Microsoft.Extensions.Primitives.dll": "sha256-Bq\/sRAUGccLb6AAWILVDKKDETC2ZDd0mfxqXIsRLCq4=",
+      "Microsoft.JSInterop.dll": "sha256-3cbvJEo8k8VJVQwyEZWWQ6yGRFQW8\/219DaOnmsX3e4=",
+      "Microsoft.JSInterop.WebAssembly.dll": "sha256-zV\/OfJNfNsG404X30Pwkdymdh1KmZpTVEmG\/JNFVc\/k=",
+      "Mono.Security.dll": "sha256-a5CNZq41JUtgEjLIOg7cAAK8Phfj+YT2em1ZQocIWms=",
+      "mscorlib.dll": "sha256-1Hs0nlA2Y6Mj\/dHqED8B9SYWfvUXZYp5ip\/+NpQ2dv0=",
+      "System.Collections.Immutable.dll": "sha256-PcUVlxokUhrtfc7jCynraCZXLNhwmI0i2I3EfVT7gVk=",
+      "System.Core.dll": "sha256-571Lc19O+nvuN+8RC8AXgzyJzM9wenGt63c70AE8F9M=",
+      "System.dll": "sha256-ovKUPK2YlYTOWjrlVUf4joG+boMm1BHpnccHaRsB++s=",
+      "System.Numerics.dll": "sha256-GOjdd0BbvKf+l4FrWHKcvIkFqt0mI1G4i+hKLu7YioY=",
+      "System.Reflection.Metadata.dll": "sha256-x5v2tkbGw2HR8ju53L+nrQHkhACrUiaXU+ekXAohbyk=",
+      "System.Runtime.CompilerServices.Unsafe.dll": "sha256-dMvj7wy8vTGT4BcdGMORu2sAV66Cvoz+8fch262Jp7I=",
+      "System.Runtime.Loader.dll": "sha256-9+UlUMHYHvRJWirHMuTWRDDLYnGmGEg4tlZ5zZ51VUk=",
+      "System.Text.Encoding.CodePages.dll": "sha256-Qh3l6E8KqZXz0CVfKAx8eSCl536ODeDuE7cMHTcyQRc=",
+      "System.Text.Encodings.Web.dll": "sha256-izC2VpO0RFhpHA5NsiTh0VEbWtHgo4MOlP9HPNAMjwk=",
+      "System.Text.Json.dll": "sha256-pNM\/kVaoQsw1ECvM2qYnTP1UxVfXLWoen9qdvndHPwc=",
+      "System.Xml.dll": "sha256-3nURjIQ7gsgr9Y21s2HSMv2XjNVuL5BWQEyV6\/qXjS4=",
+      "System.Xml.Linq.dll": "sha256-WedRGZs4qPTVj+75Xz\/+sLBrPuO4Xa1wzPU8jwwWEAU=",
+      "WebAssembly.Bindings.dll": "sha256-ByyknAaxzP6X746WQwv2Z7JJb3UYJ2zgFiR3DSGqZxE="
+    },
+    "pdb": null,
+    "runtime": {
+      "dotnet.3.2.0.js": "sha256-mPoqx7XczFHBWk3gRNn0hc9ekG1OvkKY4XiKRY5Mj5U=",
+      "dotnet.timezones.dat": "sha256-3S0qzYaBEKOBXarzVLNzNAFXlwJr6nI3lFlYUpQTPH8=",
+      "dotnet.wasm": "sha256-UC\/3Rm1NkdNdlIrzYARo+dO\/HDlS5mhPxo0IQv7kma8="
+    },
+    "satelliteResources": {
+      "cs": {
+        "cs\/Microsoft.CodeAnalysis.resources.dll": "sha256-qZ9+a\/n1jm2GxJAvpeQzATufMhTNGClHmpq\/F19Fti4=",
+        "cs\/Microsoft.CodeAnalysis.CSharp.resources.dll": "sha256-V6KfuPGU6Pr5MZTC8Civnto5rMvg73fGg3zASu\/mW6c=",
+        "cs\/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll": "sha256-JxJP0mVjPbuwuzLGHPWlLY6Yo8dm9T3wdMt2rlIkTSU=",
+        "cs\/Microsoft.CodeAnalysis.Scripting.resources.dll": "sha256-TjD1f8kJ\/XMMtXyhNLoda7G5mJdXWults0be\/tmWzqE="
+      },
+      "de": {
+        "de\/Microsoft.CodeAnalysis.resources.dll": "sha256-Kb2RUkObEFxAlx3NndyYIW2M9wTNm0nIreOPxKOP7R8=",
+        "de\/Microsoft.CodeAnalysis.CSharp.resources.dll": "sha256-ZsrCjAantYxVTZS6mitsYT7sRobIisn4S2pkL04IRng=",
+        "de\/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll": "sha256-japetaOO91v+66a3NjsDJLi+FgIrx\/palWi7USige9I=",
+        "de\/Microsoft.CodeAnalysis.Scripting.resources.dll": "sha256-iPcIgzLsNJf6lFZ7b5nhU8rW\/HxqpWvslKE6eAxqKoU="
+      },
+      "es": {
+        "es\/Microsoft.CodeAnalysis.resources.dll": "sha256-OFViZ3oCzgCVCYuiw1pyP+NPpIjVm9UPqFkSLIx+QJo=",
+        "es\/Microsoft.CodeAnalysis.CSharp.resources.dll": "sha256-1s5ExUwTI2zFBYKWCZysvdyxRzw+mZpwqTlvJEXbmhg=",
+        "es\/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll": "sha256-bLV67q8Z46iCT1bC1b6\/y4pdW28kv6AQI\/9+nnuaOoo=",
+        "es\/Microsoft.CodeAnalysis.Scripting.resources.dll": "sha256-OyRN0ITbBA8mpmb29x6w0U1x7h+5EgPGVEC5iCLWGDQ="
+      },
+      "fr": {
+        "fr\/Microsoft.CodeAnalysis.resources.dll": "sha256-zeDSyyA2VxNvD3gXy\/3gYiTTOtd2myqQ+oK\/1OIn3U0=",
+        "fr\/Microsoft.CodeAnalysis.CSharp.resources.dll": "sha256-bHygKUBlrTjIbHtnEuRA2M0vVVyJqvcliynnwQ7ELKk=",
+        "fr\/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll": "sha256-+Mi25etri7Q4blRfrqUL57s\/yLu+i8yukwZFQRwaF5M=",
+        "fr\/Microsoft.CodeAnalysis.Scripting.resources.dll": "sha256-NvwmVAL32Wgkas8N7X+tXfG3TECfOEVfOMxW3RramXo="
+      },
+      "it": {
+        "it\/Microsoft.CodeAnalysis.resources.dll": "sha256-4vbXE28tHqATVN4yk1Jq1eAoP5cBtzIbox67YUG+I08=",
+        "it\/Microsoft.CodeAnalysis.CSharp.resources.dll": "sha256-kE+4pCucoUSnREEdRNYc5tmabZxxb95iJyB\/K1bSizQ=",
+        "it\/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll": "sha256-yQtMC0Vm3wYLp679xghN9U01oykm\/ml4A36C5WLGaoI=",
+        "it\/Microsoft.CodeAnalysis.Scripting.resources.dll": "sha256-G079RHFprPOMOoX8wVco75deaNjorTXQDPQZ+JuVTU0="
+      },
+      "ja": {
+        "ja\/Microsoft.CodeAnalysis.resources.dll": "sha256-36RPj1SvNCU7eTexz9iM7Hlu6M3nzhIbkiMveoJxY4g=",
+        "ja\/Microsoft.CodeAnalysis.CSharp.resources.dll": "sha256-w+ObyKqkQxF39MBQI5j27t6Ya8NgYVAIA40KoObDoTQ=",
+        "ja\/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll": "sha256-BWVbUSQCyF5p5vd+BMcmho\/5qzQU9msXow9ugU6EWaI=",
+        "ja\/Microsoft.CodeAnalysis.Scripting.resources.dll": "sha256-I77TtbViHo0HgBPJcDyIIOkJLbGLMW5yalP9C9uUFYo="
+      },
+      "ko": {
+        "ko\/Microsoft.CodeAnalysis.resources.dll": "sha256-c4jF0cwaJtcvoXlzgnqjs5bg+eqpcPa672rd2U42XJ4=",
+        "ko\/Microsoft.CodeAnalysis.CSharp.resources.dll": "sha256-j3WHq5vh2lcPf5BfI7p22xDOY46QNmBWVsaNpAojwIU=",
+        "ko\/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll": "sha256-y1h4XDBVHq+X215j2SePS0tR2j51XAGQYxSaAViftZY=",
+        "ko\/Microsoft.CodeAnalysis.Scripting.resources.dll": "sha256-3HM2a+5PGIObusvNWw\/4gEv+r+WMeWfNd3TuQu26gFw="
+      },
+      "pl": {
+        "pl\/Microsoft.CodeAnalysis.resources.dll": "sha256-Arg9iPgH9UY1jOCpkJKQuQagkL9qE2mc\/f4XtYVq37Y=",
+        "pl\/Microsoft.CodeAnalysis.CSharp.resources.dll": "sha256-BIjwHkwFAFMA+SO+JmBvI6bgc15JLex1xx8kAciofpw=",
+        "pl\/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll": "sha256-riUmQSSChb5JVQ+w+gNxEiv4X\/vl\/e2tCQjfvikiYrI=",
+        "pl\/Microsoft.CodeAnalysis.Scripting.resources.dll": "sha256-9684TGUW\/kIWWv82zjeyI9S34W6RoXws4PBRRbAwhtE="
+      },
+      "pt-BR": {
+        "pt-BR\/Microsoft.CodeAnalysis.resources.dll": "sha256-qg9IYwtcaotGhPd3J6t0MuPXX6I\/TaCcJ\/m+KTOUsGA=",
+        "pt-BR\/Microsoft.CodeAnalysis.CSharp.resources.dll": "sha256-VhVqYqbIb+5dDPwjBhMcHEi9pWB9MXZ9czS8sSvtIDQ=",
+        "pt-BR\/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll": "sha256-v4It1GlYJvrlXR8q1wVsJt3b2\/aR8NmSoFUGnRSt+7c=",
+        "pt-BR\/Microsoft.CodeAnalysis.Scripting.resources.dll": "sha256-6R+zDRZYU+op5mehDkIAWXxmepFwHTEDway15AAFTk4="
+      },
+      "ru": {
+        "ru\/Microsoft.CodeAnalysis.resources.dll": "sha256-xQVmrb25XUyTvVTOEgrWtA0DK+cXF10a8EoBVTngN4k=",
+        "ru\/Microsoft.CodeAnalysis.CSharp.resources.dll": "sha256-3A96vO+MbLNcie8Mn4YgxskezHfpnzSs97444id5+kw=",
+        "ru\/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll": "sha256-cqLfM7IuJxXNTS0hOdwj6gAiT\/AdF8WcM22lrFszB10=",
+        "ru\/Microsoft.CodeAnalysis.Scripting.resources.dll": "sha256-j1FkXhGb1YgEK76hOatfUTDjZjHKTJ1yzqKWyA9QGPI="
+      },
+      "tr": {
+        "tr\/Microsoft.CodeAnalysis.resources.dll": "sha256-xzidoSp1h1g3KuOTeiqNvvLz7gCTxMpFgZnHxzgYq4I=",
+        "tr\/Microsoft.CodeAnalysis.CSharp.resources.dll": "sha256-b\/qoon4p8kbQG1dzuRhaFuNTwsIN9OY1RuLs+Xyi14A=",
+        "tr\/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll": "sha256-6FHMh15SZLpaB9UGs+ZMUk796Dl3yu+iXKSve+6Ex90=",
+        "tr\/Microsoft.CodeAnalysis.Scripting.resources.dll": "sha256-E40iiXbhCu8CfxipGevDPK0o0N4sfcxfpzNu9SS\/A\/I="
+      },
+      "zh-Hans": {
+        "zh-Hans\/Microsoft.CodeAnalysis.resources.dll": "sha256-hwWD9cD5iVr70OI0zfEvpmHBdJjv47sKRUQ8WSPldn0=",
+        "zh-Hans\/Microsoft.CodeAnalysis.CSharp.resources.dll": "sha256-keH\/aLjtJkRhWYLk3y309kV2U8Y8jUhAZ\/o2++oW+mw=",
+        "zh-Hans\/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll": "sha256-xQwfjLbIYLCsN+wI0jUuMobZvn0aXwCjTCSV5coayzM=",
+        "zh-Hans\/Microsoft.CodeAnalysis.Scripting.resources.dll": "sha256-3e5SWU53geB9ZMnrPZX2iB0\/rDP5gIpIK5sfe8NsXT0="
+      },
+      "zh-Hant": {
+        "zh-Hant\/Microsoft.CodeAnalysis.resources.dll": "sha256-aIzn7kZqC2UcwsSsmCOmSjOZjWd4HuExaROqFIW+Jqo=",
+        "zh-Hant\/Microsoft.CodeAnalysis.CSharp.resources.dll": "sha256-RGURdvTikFtkB6XM31T6kOMFSnpOZwtS9RgGEBepNc4=",
+        "zh-Hant\/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll": "sha256-7xH2w48AW3q\/88ap4RM6CARe5pq\/2FlHVyUFMUn3BUg=",
+        "zh-Hant\/Microsoft.CodeAnalysis.Scripting.resources.dll": "sha256-xVCZGKC4uVr6X3H7ssqDesoS\/CbrLaDWmIoxOljpg80="
+      }
+    }
+  }
+}
